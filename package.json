@@ -1,0 +1,14 @@
+{
+  "name": "redapp_web_static",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "fix": "node fixer.js"
+  },
+  "repository": "https://github.com/PSaaS-Developers/redapp_web_static.git",
+  "author": "Franco Nogarin <spydmobile@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "replace-in-file": "^6.3.2"
+  }
+}
