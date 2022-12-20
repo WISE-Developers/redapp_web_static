@@ -5,7 +5,7 @@
   "scripts": {
     "fix": "node fixer.js"
   },
-  "repository": "https://github.com/PSaaS-Developers/redapp_web_static.git",
+  "repository": "https://github.com/WISE-Developers/redapp_web_static.git",
   "author": "Franco Nogarin <spydmobile@gmail.com>",
   "license": "MIT",
   "dependencies": {
